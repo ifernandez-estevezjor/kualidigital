@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
+:root {
+    --error-color: #dc3545;
+    --success-color: #28a745;
+    --warning-color: #ffc107;
+}
+
+.form {
+    padding: 10px 20px;
+}
+
+.form h1 {
+    font-size: 1.5em;
+    text-align: center;
+    margin-bottom: 20px;
+
+}
+
+.form-field {
+    margin-bottom: 20px;
+
+}
+
+/*.form-field label {
+    display: block;
+    color: #777;
+    margin-bottom: 5px;
+}*/
+
+.form-field input {
+    border: solid 2px #f0f0f0;
+    border-radius: 3px;
+    padding: 10px;
+    margin-bottom: 5px;
+    font-size: 14px;
+    display: block;
+    width: 100%;
+    height: 50px;
+}
+
+.form-field input:focus {
+    outline: none;
+}
+
+.form-field.error input {
+    border-color: var(--error-color);
+}
+
+.form-field.success input {
+    border-color: var(--success-color);
+}
+
+.form-field select {
+    border: solid 2px #f0f0f0;
+    border-radius: 3px;
+    padding: 10px;
+    margin-bottom: 5px;
+    font-size: 14px;
+    display: block;
+    width: 100%;
+    height: 50px;
+}
+
+.form-field select:focus {
+    outline: none;
+}
+
+.form-field.error select {
+    border-color: var(--error-color);
+}
+
+.form-field.success select {
+    border-color: var(--success-color);
+}
+
+.form-field textarea {
+    border: solid 2px #f0f0f0;
+    border-radius: 3px;
+    padding: 10px;
+    margin-bottom: 5px;
+    font-size: 14px;
+    display: block;
+    width: 100%;
+    height: 150px;
+}
+
+.form-field textarea:focus {
+    outline: none;
+}
+
+.form-field.error textarea {
+    border-color: var(--error-color);
+}
+
+.form-field.success textarea {
+    border-color: var(--success-color);
+}
+
+.form-field.error .btnradio3 {
+    color: var(--error-color);
+}
+
+.form-field small {
+    color: var(--error-color);
+}
+
+#output{
+    color: #dc3545;
+}
+
+
+/* button */
+.btn {
+    width: 100%;
+    padding: 3%;
+    background: #007bff;
+    border-bottom: 2px solid #007bff;
+    border-top-style: none;
+    border-right-style: none;
+    border-left-style: none;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.btn:hover {
+    background: #0069d9;
+    cursor: pointer;
+}
+
+.btn:focus {
+    outline: none;
+}
+
+#errorContacto, #errorPrivacidad, #errorCaptcha{
+    color: #dc3545;
+}
+
+#successContacto, #successPrivacidad, #successCaptcha{
+    color: #28a745;
+}
+
+.avisoPrivacidad:hover{
+    cursor: pointer;
+}
