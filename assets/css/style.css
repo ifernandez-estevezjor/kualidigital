@@ -8332,3 +8332,13 @@ button, a:hover, a:focus, a:visited {
 .fa-comments{
 	color: #e50e7e;
 }
+
+.text-privacy{
+	color: #000000;
+	text-align: justify;
+}
+
+.container-privacy{
+	width: 60%;
+	margin: 0 auto;
+}

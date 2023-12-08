@@ -155,3 +155,55 @@
 - Corrección y modificaciones visuales al diseño de las páginas en general.
 - Revisión y modificaciones al diseño responsivo.
 - Carga de la página para revisión y pruebas en línea.
+
+# Modificaciones Producción 28/11/2023
+- Funcionamiento de los formularios para planes, streaming, vacantes y contáctanos. PENDIENTE
+- Corregir la validación del Aviso de Privacidad.
+- Corrección y modificaciones visuales al diseño de las páginas en general. NOTA: Detalles que van surgiendo.
+- Se modificaron los enlaces ancla de test a producción.
+
+# Modificaciones Producción 29/11/2023
+- Funcionamiento de los formularios para planes, streaming, vacantes y contáctanos. PENDIENTE
+- Corregir la validación del Aviso de Privacidad.
+- Corregir el input Área de Interés y Adjuntar Archivo en formulario vacantes. PENDIENTE
+
+# Modificaciones Producción 30/11/2023
+- Funcionamiento de los formularios para planes, streaming, vacantes y contáctanos. PENDIENTE
+- Corregir la validación del Aviso de Privacidad. PENDIENTE
+- Corregir el input Área de Interés y Adjuntar Archivo en formulario vacantes. PENDIENTE
+
+# Modificaciones Test 04/12/2023
+- Se cambió el ícono del preloader. Solicitar una medida más grande.
+- Se cambió el banner del hero en el index.
+- Se ocultó el botón Mi Cuenta.
+- Modificación en los colores de los textos y botones para la página en general.
+- Cambio en los íconos del contenedor en el index.
+- Se modificaron los contenedores en la sección de planes en el index.
+- Modificación en colores de los títulos en la sección Elegirnos, siguen pendiente cambiar los íconos.
+- Se modificaron los colores de los textos en la sección Streaming en el index.
+- Se cambió el logo de Kuali.
+- Formulario de vacantes funcionando.
+
+# Modificaciones Test/Producción 05/12/2023
+- Se cambió el banner del hero en el index.
+- Corrección del fondo en la sección del footer para toda la plantilla.
+- Cambio de colores en elementos del hero en el index.
+- Modificaciones ortográficas.
+- Se cambió el color del punto en el cursor.
+- Se cambió el color del hover en las redes sociales del footer.
+- Se agregaron 2 artículos para el blog y se actualizaron los enlaces para dirigir a cada artículo.
+
+# Modificaciones Test/Producción 06/12/2023
+- Ajuste de la imagen del banner en la sección Hero del Index.
+- Ajuste de la imagen del banner en la sección Hero del Index en el diseño responsivo.
+- Se agregó el producto VectorMax nuevamente.
+- Modificaciones de estilos en la barra de navegación.
+- Modificaciones de estilos y textos en el Index.
+
+# Modificaciones Test/Producción 07/12/2023
+- Se cambió la imagen del breadcrumb para los blogs.
+- Modificaciones visuales (colores, textos) para los blogs.
+- Se cambiaron las imágenes del artículo del blog.
+- Modificaciones visuales (colores) en la página Index.
+- Modificaciones visuales (colores, text) en el Index.
+- Se cambió el formato a texto plano del Aviso de Privacidad (NO pdf).
