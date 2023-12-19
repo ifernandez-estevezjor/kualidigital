@@ -6957,7 +6957,7 @@ h6 {
     top: 20px;
     right: -59px;
     content: "";
-    border: 4px solid #FF1749;
+    border: 4px solid #e5077e;
     width: 18px;
     height: 18px;
     border-radius: 50%;
@@ -7588,8 +7588,7 @@ h6 {
         margin-right: 0px;
     }
     .img-network-3{
-        width: 250px;
-        height: 200px;
+        width: 20%;
     }
     .contact-page-section .info-column .lower-box {
         position: relative;

@@ -207,3 +207,9 @@
 - Modificaciones visuales (colores) en la página Index.
 - Modificaciones visuales (colores, text) en el Index.
 - Se cambió el formato a texto plano del Aviso de Privacidad (NO pdf).
+
+# Modificaciones Test/Producción 19/12/2023
+- Se modificaron colores y texto en la página Streaming. (TERMINADO, REVISIÓN PENDIENTE KUALI)
+- Se modificaron colores y texto en la página Cobertura. NOTA: Acomodar los contenedores de los Estados. (PENDIENTE)
+- Se modificaron colores y texto en la página Nosotros. NOTA: Cambiar el color del hover para los contenedores de la sección Valores y corregir el tamaño de las imágenes de la primera sección en Producción. (PENDIENTE)
+- Se modificaron colores y texto en la página Contáctanos. (PENDIENTE)
