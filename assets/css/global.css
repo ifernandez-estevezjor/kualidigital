@@ -771,7 +771,7 @@ img {
 	left: 0px;
 	content: "\f187";
 	font-weight: 600;
-	color: var(--main-color);
+	color: #e5077e;
 	font-family: "Flaticon";
 	-webkit-transition: all 300ms ease;
 	-moz-transition: all 300ms ease;
@@ -965,7 +965,7 @@ img {
 	font-size: var(--font-16);
 	text-transform: capitalize;
 	color: #ffffff;
-	background-color: var(--main-color);
+	background-color: #1c355e;
 }
 
 .btn-style-four:before {
@@ -1009,6 +1009,126 @@ img {
 .btn-style-four:hover {
 	color: var(--white-color);
 }
+
+/* Btn style emp */
+
+.btn-style-emp {
+	position: relative;
+	line-height: 30px;
+	font-weight: 500;
+	overflow: hidden;
+	background: none;
+	text-align: center;
+	border-radius: 3px;
+	display: inline-grid;
+	padding: 13px 40px 13px;
+	font-size: var(--font-16);
+	text-transform: capitalize;
+	color: #ffffff;
+	background: rgb(0,154,191);
+	background: linear-gradient(90deg, rgba(0,154,191,1) 0%, rgba(28,53,94,1) 100%);
+}
+.btn-style-emp:before {
+	position: absolute;
+	content: '';
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	z-index: 1;
+	opacity: 0;
+	-webkit-transition: all 0.4s;
+	-moz-transition: all 0.4s;
+	-o-transition: all 0.4s;
+	transition: all 0.4s;
+	-webkit-transform: scale(0.2, 1);
+	transform: scale(0.2, 1);
+	background-color: var(--main-color-two);
+}
+.btn-style-emp:hover::before {
+	opacity: 1;
+	-webkit-transform: scale(1, 1);
+	transform: scale(1, 1);
+}
+.btn-style-emp .txt {
+	position: relative;
+	z-index: 1;
+	color: #ffffff;
+}
+.btn-style-emp i {
+	position: relative;
+	top: 2px;
+	font-style: normal;
+	line-height: 1em;
+	margin-left: 5px;
+}
+.btn-style-emp:hover {
+	color: var(--white-color);
+}
+
+
+
+/* Btn Style Clasico */
+
+.btn-style-clasico {
+	position: relative;
+	line-height: 30px;
+	font-weight: 500;
+	overflow: hidden;
+	text-align: center;
+	border-radius: 3px;
+	display: inline-grid;
+	padding: 13px 40px 13px;
+	font-size: var(--font-16);
+	text-transform: capitalize;
+	color: #ffffff;
+	background: rgb(127,33,115);
+	background: linear-gradient(0deg, rgba(127,33,115,1) 0%, rgba(195,9,114,1) 100%);
+}
+
+.btn-style-clasico:before {
+	position: absolute;
+	content: '';
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	z-index: 1;
+	opacity: 0;
+	-webkit-transition: all 0.4s;
+	-moz-transition: all 0.4s;
+	-o-transition: all 0.4s;
+	transition: all 0.4s;
+	-webkit-transform: scale(0.2, 1);
+	transform: scale(0.2, 1);
+	background-color: #1c355e;
+}
+
+.btn-style-clasico:hover::before {
+	opacity: 1;
+	-webkit-transform: scale(1, 1);
+	transform: scale(1, 1);
+}
+
+.btn-style-clasico .txt {
+	position: relative;
+	z-index: 1;
+	color: #ffffff;
+}
+
+.btn-style-clasico i {
+	position: relative;
+	top: 2px;
+	font-style: normal;
+	line-height: 1em;
+	margin-left: 5px;
+}
+
+.btn-style-clasico:hover {
+	color: var(--white-color);
+}
+
+
 
 /* Btn Style Five */
 

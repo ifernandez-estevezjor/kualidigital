@@ -213,3 +213,13 @@
 - Se modificaron colores y texto en la página Cobertura. NOTA: Acomodar los contenedores de los Estados. (PENDIENTE)
 - Se modificaron colores y texto en la página Nosotros. NOTA: Cambiar el color del hover para los contenedores de la sección Valores y corregir el tamaño de las imágenes de la primera sección en Producción. (PENDIENTE)
 - Se modificaron colores y texto en la página Contáctanos. (PENDIENTE)
+
+# Modificaciones Test/Producción 20/12/2023
+- Se modificaron colores y texto en la página Contáctanos. NOTA: Asignar un color diferente a las pestañas de Preguntas Frecuentes. (PENDIENTE)
+- Actualización del texto en Misión y Visión de la página Nosotros.
+- Modificaciones de texto, íconos y competencias en la página Nosotros.
+- Se cambiaron los íconos del mapa y se agregaron 2 direcciones nuevas.
+- Se modificaron colores en textos, íconos y botones en la página Empresarial. (TERMINADO)
+- Modificaciones de colores en textos y botones en la página Planes. (PENDIENTE)
+- Se modificaron colores y texto en la página Cobertura. NOTA: Acomodar los contenedores de los Estados. (PENDIENTE)
+- Se modificaron colores y texto en la página Nosotros. NOTA: Cambiar el color del hover para los contenedores de la sección Valores y corregir el tamaño de las imágenes de la primera sección en Producción. (PENDIENTE)
