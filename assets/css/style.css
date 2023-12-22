@@ -1926,7 +1926,6 @@
 	width:100%;
 	float:right;
 	z-index:10;
-	margin-right: -200px;
 }
 
 .internet-section .content-column .text{
@@ -4797,10 +4796,8 @@ display:none;
     -ms-transition: all 900ms ease;
     -o-transition: all 900ms ease;
     border: 3px solid var(--white-color);
-    background: var(--main-color-four);
-    background: -webkit-linear-gradient(to bottom, var(--main-color-four) 0%, var(--main-color-five) 100%);
-    background: -moz-linear-gradient(to bottom, var(--main-color-four) 0%, var(--main-color-five) 100%);
-    background: linear-gradient(to bottom, var(--main-color-four) 0%, var(--main-color-five) 100%);
+    background: rgb(127,33,115);
+	background: linear-gradient(0deg, rgba(127,33,115,1) 0%, rgba(195,9,114,1) 100%);
 }
 
 .experiance-section .image-column .overlay-box .ripple{

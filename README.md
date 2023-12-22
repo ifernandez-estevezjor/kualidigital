@@ -240,3 +240,12 @@
 
 * Nosotros
     - Modificación en los colores del hover para los contenedores del bloque 'Competencias'.
+
+# Modificaciones Test/Producción 22/12/2023
+* Nosotros
+    - Corrección de la imagen encimada en el bloque 'Innovación'.
+    - Corrección del texto 'Impulsamos' en el banner.
+    - Se modificaron los colores de los recuadros en el bloque 'Competencias'.
+
+* Cobertura
+    - Cambio de colores a los botones del bloque 'Experiencia KualiDigital'.

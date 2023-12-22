@@ -1460,10 +1460,8 @@ img {
 	font-size: var(--font-16);
 	text-transform: capitalize;
 	color: #ffffff;
-	background: var(--main-color-four);
-	background: -webkit-linear-gradient(to right, var(--main-color-four) 0%, var(--main-color-five) 100%);
-	background: -moz-linear-gradient(to right, var(--main-color-four) 0%, var(--main-color-five) 100%);
-	background: linear-gradient(to right, var(--main-color-four) 0%, var(--main-color-five) 100%);
+	background: rgb(127,33,115);
+	background: linear-gradient(0deg, rgba(127,33,115,1) 0%, rgba(195,9,114,1) 100%);
 }
 
 .btn-style-seven .txt {
