@@ -899,7 +899,7 @@ body .ui-tooltip {
 	font-family: Arial,Helvetica,sans-serif;
 	font-size: 1em;
 }
-.ui-widget.ui-widget-content {
+/* .ui-widget.ui-widget-content {
 	border: 1px solid #c5c5c5;
 }
 .ui-widget-content {
@@ -918,7 +918,7 @@ body .ui-tooltip {
 }
 .ui-widget-header a {
 	color: #333333;
-}
+} */
 
 /* Interaction states
 ----------------------------------*/
@@ -976,6 +976,16 @@ a.ui-button:focus {
 .ui-visual-focus {
 	box-shadow: 0 0 3px 1px rgb(94, 158, 214);
 }
+
+.ui-widget-content-one,
+.ui-widget-content-two,
+.ui-widget-content-three,
+.ui-widget-content-four{
+	border: 1px solid #dddddd;
+    background: #ffffff;
+    color: #333333;
+}
+
 .ui-state-active,
 .ui-widget-content .ui-state-active,
 .ui-widget-header .ui-state-active,
@@ -984,6 +994,54 @@ a.ui-button:active,
 .ui-button.ui-state-active:hover {
 	border: 1px solid #003eff;
 	background: #007fff;
+	font-weight: normal;
+	color: #ffffff;
+}
+.ui-state-active-one,
+.ui-widget-content-one .ui-state-active-one,
+.ui-widget-header-one .ui-state-active-one,
+a.ui-button:active,
+.ui-button:active,
+.ui-button.ui-state-active-one:hover {
+	border: 1px solid rgb(127,33,115);
+	background: rgb(127,33,115);
+	background: linear-gradient(0deg, rgba(127,33,115,1) 0%, rgba(195,9,114,1) 100%);
+	font-weight: normal;
+	color: #ffffff;
+}
+.ui-state-active-two,
+.ui-widget-content-two .ui-state-active-two,
+.ui-widget-header-two .ui-state-active-two,
+a.ui-button:active,
+.ui-button:active,
+.ui-button.ui-state-active-two:hover {
+	border: 1px solid rgb(128,25,16);
+	background: rgb(128,25,16);
+	background: linear-gradient(0deg, rgba(128,25,16,1) 0%, rgba(227,37,34,1) 100%);
+	font-weight: normal;
+	color: #ffffff;
+}
+.ui-state-active-three,
+.ui-widget-content-three .ui-state-active-three,
+.ui-widget-header-three .ui-state-active-three,
+a.ui-button:active,
+.ui-button:active,
+.ui-button.ui-state-active-three:hover {
+	border: 1px solid rgb(51,91,39);
+	background: rgb(51,91,39);
+	background: linear-gradient(0deg, rgba(51,91,39,1) 0%, rgba(109,179,45,1) 100%);
+	font-weight: normal;
+	color: #ffffff;
+}
+.ui-state-active-four,
+.ui-widget-content-four .ui-state-active-four,
+.ui-widget-header-four .ui-state-active-four,
+a.ui-button:active,
+.ui-button:active,
+.ui-button.ui-state-active-four:hover {
+	border: 1px solid rgb(235,104,35);
+	background: rgb(235,104,35);
+	background: linear-gradient(0deg, rgba(235,104,35,1) 0%, rgba(250,189,26,1) 100%);
 	font-weight: normal;
 	color: #ffffff;
 }

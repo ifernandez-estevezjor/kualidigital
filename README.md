@@ -223,3 +223,20 @@
 - Modificaciones de colores en textos y botones en la página Planes. (PENDIENTE)
 - Se modificaron colores y texto en la página Cobertura. NOTA: Acomodar los contenedores de los Estados. (PENDIENTE)
 - Se modificaron colores y texto en la página Nosotros. NOTA: Cambiar el color del hover para los contenedores de la sección Valores y corregir el tamaño de las imágenes de la primera sección en Producción. (PENDIENTE)
+
+# Modificaciones Test/Producción 21/12/2023
+* Planes.
+    - Se cambió la imagen del banner 'Revisar Cobertura'.
+    - Se cambiaron los colores en el bloque 'Para contratar'.
+    - Cambio de color al botón 'Descargar PDF' y se quitó el contenedor blanco.
+    - NOTA: Queda pendiente modificar los colores con degradado del bloque 'Cómo lo hacemos'.
+
+* Streaming
+    - Se cambió el orden de las imágenes de los canales.
+
+* Cobertura
+    - Cambio de color para los íconos de ubicación.
+    - Se acomodaron los contenedores de los Estados.
+
+* Nosotros
+    - Modificación en los colores del hover para los contenedores del bloque 'Competencias'.
