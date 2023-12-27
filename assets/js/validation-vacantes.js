@@ -59,6 +59,17 @@ const checkadjunto = () => {
     return valid;
 };
 
+function validation()
+{
+    var checkbox = document.getElementById("avisoPrivacidad");
+    if (!checkbox.checked){
+    document.getElementById("errorPrivacidad").innerHTML = "Por favor, acepta el Aviso de Privacidad.";
+    return false;
+    }
+    document.getElementById("successPrivacidad").innerHTML = "¡Gracias!";
+    return true;
+}
+
 const isRequired = value => value === '' ? false : true;
 const isBetween = (length, min, max) => length < min || length > max ? false : true;
 

@@ -107,6 +107,17 @@ const checkmunicipio = () => {
     return valid;
 };
 
+function validation()
+{
+    var checkbox = document.getElementById("avisoPrivacidad");
+    if (!checkbox.checked){
+    document.getElementById("errorPrivacidad").innerHTML = "Por favor, acepta el Aviso de Privacidad.";
+    return false;
+    }
+    document.getElementById("successPrivacidad").innerHTML = "¡Gracias!";
+    return true;
+}
+
 const isEmailValid = (email) => {
     const re = /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
     return re.test(email);

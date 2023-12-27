@@ -4221,8 +4221,7 @@ display:none;
 
 .swiper-slide img {
 	display: block;
-	width: 60%;
-	height: 60%;
+	width: 50%;
 	object-fit: cover;
 }
 

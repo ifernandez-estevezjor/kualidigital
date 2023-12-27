@@ -306,6 +306,10 @@
                                 <select class="form-control" name="municipio" id="municipio"></select>
                                 <small></small>
 							</div>
+                            <div class="col-lg-12 col-md-12 col-sm-12 mb-3 text-center custom-control custom-checkbox">
+                                <input type="checkbox" name="avisoPrivacidad" value="aceptado" id="avisoPrivacidad"> <label for="avisoPrivacidad" class="avisoPrivacidad">*Aceptar Aviso de Privacidad</label> <a href="aviso-de-privacidad.html" class="text-dark" rel="noopener noreferrer" target="_blank">(Ver)</a><br>
+                                <p id="errorPrivacidad"></p><p id="successPrivacidad"></p>
+							</div>
 							<input type="text" name="subject" value="Me interesa Dedicado" hidden>
 							<div class="col-lg-12 col-md-6 col-sm-6 pb-5 row justify-content-center">
                                 <div class="col-md-6 mt-3">
@@ -316,7 +320,7 @@
                                 </div>
                             </div>
                             <div class="col-md-12 col-lg-12 col-sm-12 form-group text-center">
-								<button class="btn-contratar" type="submit" value="Submit" name="submitForm"><span class="txt text-white">Enviar</span></button>
+								<button class="btn-contratar" type="submit" value="Submit" name="submitForm" onClick="validation()"><span class="txt text-white">Enviar</span></button>
 							</div>
                         </div>
                     </form>

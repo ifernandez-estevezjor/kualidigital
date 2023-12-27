@@ -7,7 +7,7 @@ const form = document.querySelector('#signup');
 
 const checknombreCompleto = () => {
     let valid = false;
-    const max = 20;
+    const max = 10;
     const nombreCompleto = nombreCompletoEl.value.trim();
 
     if (!isRequired(nombreCompleto)) {
@@ -78,13 +78,13 @@ const checkcoloniaLocalidad = () => {
 
 function validation()
 {
- var checkbox = document.getElementById("avisoPrivacidad");
- if (!checkbox.checked){
-  document.getElementById("errorPrivacidad").innerHTML = "Por favor, acepta el Aviso de Privacidad.";
-  return false;
- }
- document.getElementById("successPrivacidad").innerHTML = "¡Gracias!";
- return true;
+    var checkbox = document.getElementById("avisoPrivacidad");
+    if (!checkbox.checked){
+    document.getElementById("errorPrivacidad").innerHTML = "Por favor, acepta el Aviso de Privacidad.";
+    return false;
+    }
+    document.getElementById("successPrivacidad").innerHTML = "¡Gracias!";
+    return true;
 }
 
 const isRequired = value => value === '' ? false : true;

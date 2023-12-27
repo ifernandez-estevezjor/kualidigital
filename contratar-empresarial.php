@@ -39,11 +39,12 @@ $TelNumero = $_POST['TelNumero'];
 $extension = $_POST['extension'];
 $estado = $_POST['estado'];
 $municipio = $_POST['municipio'];
+$avisoPrivacidad = $_POST['avisoPrivacidad'];
 $subject = $_POST['subject'];
 
 $destinatario = 'test@kualidigital.com';
 $asunto = 'Formulario de Contacto Empresarial';
-$cuerpo = "Plan: $planes\nNombre Completo: $NombreCompleto\nCargo: $cargo\nEmail: $email\nEmpresa: $empresa\nTelefono Celular: $TelCelular\nNumero Telefono: $TelNumero\nExtension: $extension\nEstado: $estado\nMunicipio: $municipio";
+$cuerpo = "Plan: $planes\nNombre Completo: $NombreCompleto\nCargo: $cargo\nEmail: $email\nEmpresa: $empresa\nTelefono Celular: $TelCelular\nNumero Telefono: $TelNumero\nExtension: $extension\nEstado: $estado\nMunicipio: $municipio\nAviso de Privacidad: $avisoPrivacidad";
 $headers = "From: $subject\r\nReply-To: $subject\r\n";
 
 mail($destinatario, $asunto, $cuerpo, $headers);

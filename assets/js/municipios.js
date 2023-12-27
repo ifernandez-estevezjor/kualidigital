@@ -3,6 +3,8 @@ var municipios = {
         "Zumpango"
     ],
     "Hidalgo":[
+            "Mineral de la Reforma",
+            "Omitlán",
             "Tizayuca",
             "Tolcayuca",
             "Villa de Tezontepec"
@@ -12,7 +14,6 @@ var municipios = {
         ],
     "Quintana Roo":[
             "Bacalar",
-            "Chetumal",
-            "Mineral de la Reforma"
+            "Chetumal"
         ]
 }

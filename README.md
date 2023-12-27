@@ -274,3 +274,36 @@
 * Empresarial
     - Se eliminó el formulario de contacto empresarial para optimizar espacio y evitar redundancia.
     - Modificación al texto del bloque de los planes.
+
+# Modificaciones Test/Producción 27/12/2023
+* General
+    - Cambio de color al fondo del select de los Estados y Municipios en todos los formularios.
+    - Se agregaron 2 municipios al select de municipios.
+    - Se modificó el tamaño mínimo para el campo del Nombre Completo en todos los formularios.
+    - Todos los formularios se abren en una nueva pestaña.
+    - Se agregó texto al mensaje de salida cuando se envía un formulario.
+    - Se agregó LinkedIn en las redes sociales del footer.
+    - Se eliminó el link 'Título de Concesión' en todas las páginas.
+
+* Home
+    - Se agregó 'Aviso de Privacidad' al formulario 'Me interesa contratar' del bloque Streaming.
+    - Se agregó target blank para abrir el formulario en una nueva pestaña.
+    - Los PDF del bloque 'Nuestros productos' se abren en una nueva pestaña.
+
+* Blog
+    - Modificación de textos en el bloque 'Nuestros servicios'.
+    - Modificación de textos en el bloque 'Últimos blogs'.
+    - Modificación de textos en el bloque de los artículos.
+
+* Planes
+    - El PDF del bloque 'Información de pago' se abre en una nueva pestaña.
+
+* Streaming
+    - Se colocaron viñetas a los textos del bloque 'Streaming'.
+    - Se modificó el tamaño de las imágenes en el carrusel del bloque 'Apps'.
+
+* Nosotros
+    - Se agregó el Aviso de Privacidad al formulario de las vacantes.
+
+* Empresarial
+    - Se agregó el Aviso de Privacidad a todos los formularios.
