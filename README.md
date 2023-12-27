@@ -249,3 +249,28 @@
 
 * Cobertura
     - Cambio de colores a los botones del bloque 'Experiencia KualiDigital'.
+
+# Modificaciones Test/Producción 26/12/2023
+* Home
+    - Se cambió el color del botón en el bloque Streaming.
+    - Se cambió el color de los botones en el bloque 'Nuestros Productos'.
+
+* Cobertura
+    - Se cambió el video del botón play en el bloque 'Queremos...'.
+
+* Nosotros
+    - Se quitó la imagen superior del bloque innovación.
+    - Cambio de imagen en el bloque '100% mexicanos'.
+
+* Planes
+    - Integración de colores degradados en el bloque planes.
+    - Integración de colores degradados en el bloque ¿Cómo lo hacemos?.
+    - Cambio de texto en el bloque ¿Cómo lo hacemos?.
+    - Cambio de color al botón 'Descargar PDF' en el bloque 'Información de pago'.
+
+* Contáctanos
+    - Ajuste centrado para el captcha de Google en formulario de contacto.
+
+* Empresarial
+    - Se eliminó el formulario de contacto empresarial para optimizar espacio y evitar redundancia.
+    - Modificación al texto del bloque de los planes.

@@ -831,24 +831,6 @@ img {
 	color: var(--main-color-two);
 }
 
-/* Btn Style Cobertura */
-
-.btn-style-cobertura {
-	position: relative;
-	line-height: 30px;
-	font-weight: 500;
-	overflow: hidden;
-	background: none;
-	text-align: center;
-	border-radius: 3px;
-	display: inline-grid;
-	padding: 13px 40px 13px;
-	font-size: var(--font-16);
-	text-transform: capitalize;
-	color: var(--white-color);
-	background-color: #e5077e;
-}
-
 
 /* Btn Style Two */
 
@@ -1518,8 +1500,10 @@ img {
 	font-size: var(--font-16);
 	text-transform: capitalize;
 	color: #ffffff;
-	background: rgb(128,25,16);
-	background: linear-gradient(0deg, rgba(128,25,16,1) 0%, rgba(227,37,34,1) 100%);
+	background: #c30972;
+    background: -webkit-linear-gradient(to right, #7f2173 0%, #c30972 100%);
+    background: -moz-linear-gradient(to right, #7f2173 0%, #c30972 100%);
+    background: linear-gradient(to right, #7f2173 0%, #c30972 100%);
 }
 
 .btn-style-pago .txt {
@@ -1542,7 +1526,10 @@ img {
 	transform: translateX(-50%);
 	border-radius: 50%;
 	z-index: 1;
-	background: var(--main-color-two);
+	background: var(--main-color-six);
+    background: -webkit-linear-gradient(to left, var(--main-color-six) 0%, var(--main-color-seven) 100%);
+    background: -moz-linear-gradient(to left, var(--main-color-six) 0%, var(--main-color-seven) 100%);
+    background: linear-gradient(to left, var(--main-color-six) 0%, var(--main-color-seven) 100%);
 }
 
 .btn-style-pago:hover {

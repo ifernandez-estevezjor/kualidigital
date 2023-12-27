@@ -936,6 +936,7 @@ html .ui-button.ui-state-disabled:active {
 	font-weight: normal;
 	color: #454545;
 }
+
 .ui-state-default a,
 .ui-state-default a:link,
 .ui-state-default a:visited,
@@ -980,7 +981,8 @@ a.ui-button:focus {
 .ui-widget-content-one,
 .ui-widget-content-two,
 .ui-widget-content-three,
-.ui-widget-content-four{
+.ui-widget-content-four,
+.ui-widget-content-five{
 	border: 1px solid #dddddd;
     background: #ffffff;
     color: #333333;
@@ -1000,9 +1002,9 @@ a.ui-button:active,
 .ui-state-active-one,
 .ui-widget-content-one .ui-state-active-one,
 .ui-widget-header-one .ui-state-active-one,
-a.ui-button:active,
-.ui-button:active,
-.ui-button.ui-state-active-one:hover {
+a.ui-button-one:active,
+.ui-button-one:active,
+.ui-button-one.ui-state-active-one:hover {
 	border: 1px solid rgb(127,33,115);
 	background: rgb(127,33,115);
 	background: linear-gradient(0deg, rgba(127,33,115,1) 0%, rgba(195,9,114,1) 100%);
@@ -1045,6 +1047,19 @@ a.ui-button:active,
 	font-weight: normal;
 	color: #ffffff;
 }
+.ui-state-active-five,
+.ui-widget-content-five .ui-state-active-five,
+.ui-widget-header-five .ui-state-active-five,
+a.ui-button:active,
+.ui-button:active,
+.ui-button.ui-state-active-five:hover {
+	border: 1px solid rgb(28,53,83);
+	background: rgb(28,53,83);
+	background: linear-gradient(0deg, rgba(28,53,83,1) 0%, rgba(0,154,191,1) 100%);
+	font-weight: normal;
+	color: #ffffff;
+}
+
 .ui-icon-background,
 .ui-state-active .ui-icon-background {
 	border: #003eff;
