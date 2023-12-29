@@ -307,3 +307,36 @@
 
 * Empresarial
     - Se agregó el Aviso de Privacidad a todos los formularios.
+
+# Modificaciones Test/Producción 28/12/2023
+* Generales
+    - Se editó la lista de municipios para todos los formularios.
+    - Verificar el required del captcha en todos los formularios. (PENDIENTE)
+    - Aumento de la altura para el botón de progreso y regresar arriba.
+
+* Index
+    - Se ocultó la opción para ver el número de comentarios que tienen los blogs.
+
+* Streaming
+    - Se modificó el tamaño de la imagen 'FireTV' en el bloque de apps.
+
+* Nosotros
+    - Se quitó le Estado de México en la lista de Estados.
+
+* Contáctanos
+    - Se cambiaron los íconos del bloque 'Información de Contacto'.
+    - Modificación de textos del bloque 'Información de Contacto'.
+    - Se agregó LinkedIn y YouTube a las redes sociales.
+    - Se eliminó el mapa de Google y se agregaron las direcciones de las sucursales en texto.
+    - Se separaron los comentarios de los clientes por bloques.
+    - Modificación del texto en la lista del 'Motivo Consulta'.
+    - Modificación en el color del texto para la lista de los Estados y Municipios.
+
+* Empresarial
+    - Enlace de WhatsApp se abre en una nueva pestaña.
+
+* Blogs
+    - Se ocultaron las opciones para ver comentarios y navegación de publicaciones (anterior, siguiente).
+
+* Responsive
+    - Modificaciones generales en cuanto orden en texto, bloques y figuras.

@@ -2249,6 +2249,11 @@ display:none;
 	color: #e5077e;
 }
 
+.firetv-img{
+	width: 50%;
+	margin-top: 40px;
+}
+
 /*.clients-section{
 	position:relative;
 	padding:0px 0px 100px;
@@ -4221,7 +4226,7 @@ display:none;
 
 .swiper-slide img {
 	display: block;
-	width: 50%;
+	/*width: 50%;*/
 	object-fit: cover;
 }
 
@@ -6686,6 +6691,11 @@ display:none;
 .contact-page-section .map-column{
 	position:relative;
 	margin-bottom:var(--margin-bottom-40);
+}
+
+.map-title{
+	color: #e5077e;
+	font-weight: bold;
 }
 
 .contact-page-section .map-column .inner-column{

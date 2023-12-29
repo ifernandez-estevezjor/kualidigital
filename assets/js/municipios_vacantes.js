@@ -1,7 +1,4 @@
 var municipios = {
-    "Estado de Mexico":[
-        "Zumpango"
-    ],
     "Hidalgo":[
             "Mineral de la Reforma",
             "Omitlán de Juárez",

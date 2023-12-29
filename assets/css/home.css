@@ -3462,7 +3462,7 @@ h6 {
 .progress-wrap {
     position: fixed;
     right: 30px;
-    bottom: 40px;
+    bottom: 90px;
     height: 40px;
     width: 40px;
     cursor: pointer;
@@ -7611,6 +7611,7 @@ h6 {
 @media (max-width: 767px) {
     .footer__copyright-text {
         text-align: left !important;
+        margin-left: 45px;
     }
 }
 
@@ -7723,9 +7724,32 @@ h6 {
 }
 
 @media (max-width: 767px) {
+    .pull-center{
+        margin-left: 30px;
+    }
     .sec-title .text {
         margin-top: 20px;
         font-size: 18px;
+        margin-left: 70px;
+        width: 50%;
+    }
+    .inner-box-resp{
+        margin-top: 60px;
+    }
+    .footer__main__resp{
+        margin-left: -12px;
+    }
+    .thm-btn-cobertura{
+        margin-left: 60px;
+    }
+    .channel-title-resp{
+        padding-top: 40px;
+    }
+    .network-section .network-list{
+        margin-left: 70px;
+    }
+    .network-section .images-column .image-three{
+        margin-bottom: -80px;
     }
     .products-box{
         margin-left: 0px;
