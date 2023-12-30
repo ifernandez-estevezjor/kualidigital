@@ -339,4 +339,28 @@
     - Se ocultaron las opciones para ver comentarios y navegación de publicaciones (anterior, siguiente).
 
 * Responsive
-    - Modificaciones generales en cuanto orden en texto, bloques y figuras.
+    - Modificaciones generales en cuanto orden de texto, bloques y figuras.
+
+# Modificaciones Test/Producción 29/12/2023
+* Index
+    - Cambio de color para el botón Área de Cobertura.
+    - Se cambió el texto de las miniaturas de los blogs.
+    - Se cambiaron los PDF de los productos en el bloque 'Nuestros Productos'.
+
+* Planes
+    - Rediseño del bloque de los planes para poder visualizar en dispositivos móviles.
+
+* Contáctanos
+    - Cambio al color de fondo para los comentarios del bloque 'Lo que opinan nuestros clientes'.
+    - Se modificó y cambió la imagen del bloque 'Lo que opinan nuestros clientes'.
+    - Se cambió la imagen del bloque 'Preguntas Frecuentes'.
+
+* Responsive
+    * Generales
+        - Modificación del margen en el footer.
+
+    * Planes
+        - Rediseño del bloque de los planes para poder visualizar en dispositivos móviles.
+
+    * Contáctanos
+        - Modificaciones en el orden y tamaño de los contenedores en el formulario de contacto.

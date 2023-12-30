@@ -3194,7 +3194,7 @@ display:none;
 }
 
 .img-faq{
-	height: 620px;
+	/*height: 620px;*/
 }
 
 .img-faq-home{
@@ -3387,6 +3387,7 @@ display:none;
 	font-size: 16px;
 }
 
+
 /*** 
 
 ====================================================================
@@ -3395,9 +3396,9 @@ display:none;
 
 ***/
 
-/*.pricing-section-two{
+/* .pricing-section-two{
 	position:relative;
-	padding:110px 0px 0px;
+	padding:110px 0px 110px;
 	background-color:#fdf6f6;
 	background-size:cover;
 }
@@ -3463,7 +3464,7 @@ display:none;
 .price-block-two .title-box .title{
 	position:relative;
 	font-size:var(--font-14);
-	color:red;
+	color:var(--main-color);
 	text-transform:uppercase;
 	transition:all 500ms ease;
 	-moz-transition:all 500ms ease;
@@ -3473,12 +3474,12 @@ display:none;
 }
 
 .price-block-two .title-box h4{
-	margin-top:5px;
-	margin-bottom:15px;
+	margin-top:var(--margin-top-5);
+	margin-bottom:var(--margin-bottom-15);
 }
 
 .price-block-two .title-box h4 a{
-	color:rgb(1, 1, 1);
+	color:var(--heading-color);
 }
 
 .price-block-two.active .inner-box .title-box,
@@ -3586,20 +3587,7 @@ display:none;
 	display:block;
 	font-weight:500;
 	font-size:15px;
-}
-
-.text-megas{
-	text-align: center;
-}*/
-
-
-/*** 
-
-====================================================================
-	Pricing Section Two
-====================================================================
-
-***/
+} */
 
 .pricing-section-two{
 	position:relative;
@@ -3617,7 +3605,7 @@ display:none;
 }
 
 .pricing-section-two .price-block-two:nth-child(3) .inner-box{
-	/*box-shadow:0px 0px 25px rgba(0,0,0,0.10);*/
+	
 }
 
 .pricing-section-two.style-two .price-block-two .inner-box,
@@ -3889,7 +3877,7 @@ display:none;
 }
 
 .price-block-two .price-box,
-.price-block-clasico .price-box,
+.price-block-clasico .price-box-clasico,
 .price-block-avanzado .price-box,
 .price-block-premier .price-box,
 .price-block-elite .price-box{
@@ -3904,9 +3892,9 @@ display:none;
 }
 
 .price-block-two .price-box .price,
-.price-block-clasico .price-box .price,
-.price-block-avanzado .price-box .price,
-.price-block-premier .price-box .price,
+.price-block-clasico .price-box-clasico .price-clasico,
+.price-block-avanzado .price-box-avanzado .price-avanzado,
+.price-block-premier .price-box-premier .price-premier,
 .price-block-elite .price-box .price{
 	position:relative;
 	font-weight:700;
@@ -3917,9 +3905,9 @@ display:none;
 }
 
 .price-block-two .price-box .price span,
-.price-block-clasico .price-box .price span,
-.price-block-avanzado .price-box .price span,
-.price-block-premier .price-box .price span,
+.price-block-clasico .price-box-clasico .price-clasico span,
+.price-block-avanzado .price-box-avanzado .price-avanzado span,
+.price-block-premier .price-box-premier .price-premier span,
 .price-block-elite .price-box .price span{
 	position:relative;
 	display:block;
@@ -4226,7 +4214,7 @@ display:none;
 
 .swiper-slide img {
 	display: block;
-	/*width: 50%;*/
+	width: 50%;
 	object-fit: cover;
 }
 
@@ -8446,7 +8434,7 @@ display:none;
     position: relative;
 	padding: 15px 0px;
     border-radius: 4px;
-    background-color: var(--dark-color-three);
+    /*background-color: var(--dark-color-three);*/
 }
 
 .default-section .carousel-column .carousel-box {
@@ -8480,6 +8468,20 @@ display:none;
     position: relative;
     padding: 35px 35px;
     border-radius: 4px;
+}
+
+.inner-column-one{
+	background-color: #dd8a03;
+}
+.inner-column-two{
+	background-color: #45a041;
+}
+.inner-column-three{
+	background-color: #ce0e2d;
+}
+
+.box-clientes-img{
+	margin: 0 auto;
 }
 
 .form-column{

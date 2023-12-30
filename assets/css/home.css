@@ -7878,4 +7878,55 @@ h6 {
     .price-block .lower-box{
         margin-top: 40px;
     }
+    .input-aviso-resp{
+        width: 262px;
+        margin-left: -20px;
+    }
+    
+    .captcha-resp{
+        margin-left: -60px;
+    }
+    .sidebar-page-container .sidebar-side .sidebar{
+        padding-left: 0px;
+    }
+    .auto-container{
+        margin-top: 50px;
+    }
+    .container__main__resp{
+        margin-left: 20px;
+    }
+    .footer__main{
+        margin-left: -20px;
+    }
+    .price-box{
+        margin-left: -260px;
+    }
+    .price-box-avanzado, .price-box-premier{
+        margin-left: -260px;
+    }
+    .price-avanzado, .price-premier{
+        margin-left: 15px;
+    }
+}
+
+@media only screen and (max-width: 767px){
+    .price-block-two .price-box {
+        max-width: 100%;
+        text-align: center;
+        padding-top: var(--padding-zero);
+        padding-bottom: var(--padding-bottom-50);
+        position: relative;
+        margin-left: -250px;
+    }
+    .price-block-two .price-box .price{
+        margin-left: 15px;
+        margin-bottom: -40px;
+    }
+    .price-block-two .icon-list{
+        margin-left: -10px;
+    }
+    .price-block-two .price-list{
+        margin-left: -300px;
+        padding-top: 40px;
+    }
 }
