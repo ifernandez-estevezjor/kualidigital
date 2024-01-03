@@ -7830,11 +7830,7 @@ h6 {
         /*margin-top: -50px;*/
     }
     .middle-content{
-        margin-left: -320px;
-        margin-top: 280px;
-    }
-    .middle-content-responsive{
-        margin-left: -320px;
+        margin-left: -340px;
         margin-top: 320px;
     }
     .icon-list{
@@ -7898,14 +7894,12 @@ h6 {
     .footer__main{
         margin-left: -20px;
     }
-    .price-box{
-        margin-left: -260px;
-    }
-    .price-box-avanzado, .price-box-premier{
-        margin-left: -260px;
-    }
-    .price-avanzado, .price-premier{
-        margin-left: 15px;
+    .btn-style-clasico,
+    .btn-style-avanzado,
+    .btn-style-premier,
+    .btn-style-elite{
+        width: 150px;
+        margin-left: -18px;
     }
 }
 
@@ -7918,6 +7912,18 @@ h6 {
         position: relative;
         margin-left: -250px;
     }
+    .price-block-clasico .price-box,
+    .price-block-avanzado .price-box,
+    .price-block-premier .price-box,
+    .price-block-elite .price-box {
+        max-width: 100%;
+        text-align: center;
+        padding-top: var(--padding-zero);
+        padding-bottom: var(--padding-bottom-50);
+        position: relative;
+        margin-left: -250px;
+    }
+
     .price-block-two .price-box .price{
         margin-left: 15px;
         margin-bottom: -40px;

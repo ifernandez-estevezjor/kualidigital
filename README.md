@@ -364,3 +364,14 @@
 
     * Contáctanos
         - Modificaciones en el orden y tamaño de los contenedores en el formulario de contacto.
+
+# Modificaciones Test/Producción 02/01/2024
+* Responsive
+    * Planes
+        - Rediseño del bloque de los planes para poder visualizar en dispositivos móviles.
+
+# Modificaciones Test/Producción 03/01/2024
+* General
+    - Integración de nuevas metas para el SEO.
+* NOTA
+    - En espera de confirmación por parte de la Dirección de KualiDigital.

@@ -3396,199 +3396,6 @@ display:none;
 
 ***/
 
-/* .pricing-section-two{
-	position:relative;
-	padding:110px 0px 110px;
-	background-color:#fdf6f6;
-	background-size:cover;
-}
-
-.pricing-section-two.style-two{
-	background:none;
-}
-
-.pricing-section-two .price-block-two:nth-child(3){
-	z-index:1;
-}
-
-.pricing-section-two .price-block-two:nth-child(3) .inner-box{
-	box-shadow:0px 0px 25px rgba(0,0,0,0.10);
-}
-
-.pricing-section-two.style-two .price-block-two .inner-box{
-	border:1px solid #eeeeee;
-}
-
-.pricing-section-two.style-three{
-	padding-bottom:200px;
-	margin-bottom:-95px;
-}
-
-.price-block-two{
-	position:relative;
-}
-
-.price-block-two .inner-box{
-	position:relative;
-	padding-left:370px;
-	min-height:225px;
-	border-radius:4px;
-	background-color:var(--white-color);
-	padding-right:var(--padding-right-260);
-}
-
-.price-block-two .title-box{
-	position:absolute;
-	left:0px;
-	top:0px;
-	max-width:360px;
-	padding:48px 35px;
-	transition:all 500ms ease;
-	-moz-transition:all 500ms ease;
-	-webkit-transition:all 500ms ease;
-	-ms-transition:all 500ms ease;
-	-o-transition:all 500ms ease;
-}
-
-.price-block-two .title-box:before{
-	position:absolute;
-	content:'';
-	right:-15px;
-	top:0px;
-	bottom:0px;
-	width:56px;
-	background:url(../images/icons/team-icon.png);
-	background-position:center top;
-}
-
-.price-block-two .title-box .title{
-	position:relative;
-	font-size:var(--font-14);
-	color:var(--main-color);
-	text-transform:uppercase;
-	transition:all 500ms ease;
-	-moz-transition:all 500ms ease;
-	-webkit-transition:all 500ms ease;
-	-ms-transition:all 500ms ease;
-	-o-transition:all 500ms ease;
-}
-
-.price-block-two .title-box h4{
-	margin-top:var(--margin-top-5);
-	margin-bottom:var(--margin-bottom-15);
-}
-
-.price-block-two .title-box h4 a{
-	color:var(--heading-color);
-}
-
-.price-block-two.active .inner-box .title-box,
-.price-block-two .inner-box:hover .title-box{
-	background-color:var(--main-color);
-}
-
-.price-block-two.active .inner-box .title-box h4 a,
-.price-block-two.active .inner-box .title,
-.price-block-two.active .inner-box .text,
-.price-block-two .inner-box:hover .title-box h4 a,
-.price-block-two .inner-box:hover .title,
-.price-block-two .inner-box:hover .text{
-	color:var(--white-color);
-}
-
-.price-block-two .middle-content{
-	position:relative;
-	min-height:225px;
-	padding:46px 0px 46px 0px;
-	border-right:1px solid #f1f1f1;
-}
-
-.price-block-two .middle-content .middle-inner{
-	position:relative;
-	padding-left:var(--padding-left-290);
-}
-
-.price-block-two .icon-list{
-	position:absolute;
-	left:0px;
-	width:100%;
-	text-align:center;
-	max-width:280px;
-	padding-top:var(--padding-top-35);
-}
-
-.price-block-two .icon-list li{
-	position:relative;
-	width:76px;
-	height:76px;
-	padding:14px;
-	margin:0px 5px;
-	border-radius:50px;
-	display:inline-block;
-	background-color:var(--white-color);
-	box-shadow:0px 0px 15px rgba(0,0,0,0.10);
-	-webkit-transition:all 500ms ease;
-	-moz-transition:all 500ms ease;
-	-ms-transition:all 500ms ease;
-	-o-transition:all 500ms ease;
-	transition:all 500ms ease;
-}
-
-.price-block-two .inner-box:hover .icon-list li{
-	transform:rotateY(180deg);
-}
-
-.price-block-two .price-list{
-	position:relative;
-}
-
-.price-block-two .price-list li{
-	position:relative;
-	font-size:var(--font-15);
-	color:var(--dark-color);
-	padding-left:var(--padding-left-25);
-	margin-bottom:var(--margin-bottom-15);
-}
-
-.price-block-two .price-list li:before{
-	position:absolute;
-	content: "\f00c";
-	left:0px;
-	color:var(--main-color);
-	font-family: 'FontAwesome';
-}
-
-.price-block-two .price-list li:last-child{
-	margin-bottom:var(--margin-zero);
-}
-
-.price-block-two .price-box{
-	position:absolute;
-	right:0px;
-	top:0px;
-	bottom:0px;
-	width:100%;
-	max-width:260px;
-	text-align:center;
-	padding-top:var(--padding-top-45);
-}
-
-.price-block-two .price-box .price{
-	position:relative;
-	font-weight:700;
-	line-height:1.1em;
-	font-size:var(--font-30);
-	color:var(--dark-color-two);
-	margin-bottom:var(--margin-bottom-20);
-}
-
-.price-block-two .price-box .price span{
-	position:relative;
-	display:block;
-	font-weight:500;
-	font-size:15px;
-} */
-
 .pricing-section-two{
 	position:relative;
 	padding:110px 0px 0px;
@@ -3612,6 +3419,7 @@ display:none;
 .pricing-section-two.style-two .price-block-clasico .inner-box,
 .pricing-section-two.style-two .price-block-avanzado .inner-box,
 .pricing-section-two.style-two .price-block-premier .inner-box,
+.pricing-section-two.style-two .price-block-clasico .inner-box,
 .pricing-section-two.style-two .price-block-elite .inner-box{
 	border:1px solid #eeeeee;
 }
@@ -3625,6 +3433,7 @@ display:none;
 .price-block-clasico,
 .price-block-avanzado,
 .price-block-premier,
+.price-block-clasico,
 .price-block-elite{
 	position:relative;
 }
@@ -3633,6 +3442,7 @@ display:none;
 .price-block-clasico .inner-box,
 .price-block-avanzado .inner-box,
 .price-block-premier .inner-box,
+.price-block-clasico .inner-box,
 .price-block-elite .inner-box{
 	position:relative;
 	padding-left:370px;
@@ -3646,6 +3456,7 @@ display:none;
 .price-block-clasico .title-box,
 .price-block-avanzado .title-box,
 .price-block-premier .title-box,
+.price-block-clasico .title-box,
 .price-block-elite .title-box{
 	position:absolute;
 	left:0px;
@@ -3663,6 +3474,7 @@ display:none;
 .price-block-clasico .title-box:before,
 .price-block-avanzado .title-box:before,
 .price-block-premier .title-box:before,
+.price-block-clasico .title-box:before,
 .price-block-elite .title-box:before{
 	position:absolute;
 	content:'';
@@ -3877,7 +3689,7 @@ display:none;
 }
 
 .price-block-two .price-box,
-.price-block-clasico .price-box-clasico,
+.price-block-clasico .price-box,
 .price-block-avanzado .price-box,
 .price-block-premier .price-box,
 .price-block-elite .price-box{
@@ -3892,9 +3704,9 @@ display:none;
 }
 
 .price-block-two .price-box .price,
-.price-block-clasico .price-box-clasico .price-clasico,
-.price-block-avanzado .price-box-avanzado .price-avanzado,
-.price-block-premier .price-box-premier .price-premier,
+.price-block-clasico .price-box .price,
+.price-block-avanzado .price-box .price,
+.price-block-premier .price-box .price,
 .price-block-elite .price-box .price{
 	position:relative;
 	font-weight:700;
@@ -3905,9 +3717,9 @@ display:none;
 }
 
 .price-block-two .price-box .price span,
-.price-block-clasico .price-box-clasico .price-clasico span,
-.price-block-avanzado .price-box-avanzado .price-avanzado span,
-.price-block-premier .price-box-premier .price-premier span,
+.price-block-clasico .price-box .price span,
+.price-block-avanzado .price-box .price span,
+.price-block-premier .price-box .price span,
 .price-block-elite .price-box .price span{
 	position:relative;
 	display:block;
