@@ -373,5 +373,14 @@
 # Modificaciones Test/Producción 03/01/2024
 * General
     - Integración de nuevas metas para el SEO.
+    - Correcciones de redacción en los textos de algunas páginas.
+
+* Index
+    - Se alineó el botón 'Área de Cobertura' para la versión web y responsive.
+    - Se cambió el texto 'Área de Cobertura' por 'Zona de Cobertura' en el botón del hero principal.
+
+* Blog
+    - Cambio de imágenes por exceso de peso en archivo. (PENDIENTE)
+
 * NOTA
     - En espera de confirmación por parte de la Dirección de KualiDigital.

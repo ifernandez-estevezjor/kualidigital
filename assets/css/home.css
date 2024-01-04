@@ -3181,7 +3181,7 @@ h6 {
 
 
 .thm-btn-cobertura {
-    margin-left: 100px;
+    /*margin-left: 100px;*/
     font-size: 16px;
     padding: 19px 30px;
     padding-right: 52px;
@@ -7739,9 +7739,9 @@ h6 {
     .footer__main__resp{
         margin-left: -12px;
     }
-    .thm-btn-cobertura{
+    /* .thm-btn-cobertura{
         margin-left: 60px;
-    }
+    } */
     .channel-title-resp{
         padding-top: 40px;
     }
