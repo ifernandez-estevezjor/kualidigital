@@ -384,3 +384,10 @@
 
 * NOTA
     - En espera de confirmación por parte de la Dirección de KualiDigital.
+
+# Modificaciones 04/01/2024
+* General
+    - Verificación y corrección de enlaces para producción.
+
+* Blog
+    - Cambio de imágenes por exceso de peso en archivo.
