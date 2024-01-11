@@ -391,3 +391,14 @@
 
 * Blog
     - Cambio de imágenes por exceso de peso en archivo.
+
+# Modificaciones Test/Producción 11/01/2024
+* General
+    - Se agregó script de Google Analytics en todas las páginas.
+    - Se agregó enlace al ícono 'Atención a Clientes' para abrir mensajería de WhatsApp.
+
+* Cobertura
+    - Se agregó un bloque para el Estado de México.
+
+* Empresarial
+    - Se agregó un enlace para enviar a la página de EstevezJor.
