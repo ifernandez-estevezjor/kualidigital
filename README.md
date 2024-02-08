@@ -402,3 +402,9 @@
 
 * Empresarial
     - Se agregó un enlace para enviar a la página de EstevezJor.
+
+# Modificaciones Test/Producción 08/02/2024
+* General
+    - Corrección de un error ortográfico ubicado en el footer.
+    - Se cambiaron los documentos legales y se modificaron los enlaces de cada uno en el footer.
+    - Cambio en la imagen del banner en el index.
