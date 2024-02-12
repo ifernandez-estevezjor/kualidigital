@@ -408,3 +408,11 @@
     - Corrección de un error ortográfico ubicado en el footer.
     - Se cambiaron los documentos legales y se modificaron los enlaces de cada uno en el footer.
     - Cambio en la imagen del banner en el index.
+
+# Modificaciones Test/Producción 09/02/2024
+* General
+    - Se agregó el documento legal Control Parental en los enlaces del footer.
+
+# Modificaciones Test/Producción 12/02/2024
+* General
+    - Se agregó el botón flotante de WhatsApp.

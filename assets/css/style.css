@@ -8624,3 +8624,21 @@ button, a:hover, a:focus, a:visited {
 .link-estevez{
 	color: #e5077e;
 }
+
+.whatsapp {
+    position:fixed;
+    width:65px;
+    height:65px;
+    top:560px;
+    right:20px;
+    background-color:#25d366;
+    color:#FFF;
+    border-radius:50px;
+    text-align:center;
+    font-size:50px;
+    z-index:100;
+}
+
+.logo-whatsapp{
+	margin-top: 18px;
+}
