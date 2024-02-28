@@ -12,6 +12,47 @@
     font-style: normal;
 }
 
+.fab {
+    font-family: 'Font Awesome 5 Brands';
+  }
+  @font-face {
+    font-family: 'Font Awesome 5 Pro';
+    font-style: normal;
+    font-weight: 300;
+    font-display: auto;
+    src: url("..//fonts/fa-light-300.ttf") format("truetype");
+  }
+  
+  .fal {
+    font-family: 'Font Awesome 5 Pro';
+    font-weight: 300;
+  }
+  @font-face {
+    font-family: 'Font Awesome 5 Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-display: auto;
+    src: url("..//fonts/fa-regular-400.ttf") format("truetype");
+  }
+  
+  .far {
+    font-family: 'Font Awesome 5 Pro';
+    font-weight: 400;
+  }
+  @font-face {
+    font-family: 'Font Awesome 5 Pro';
+    font-style: normal;
+    font-weight: 900;
+    font-display: auto;
+    src: url("..//fonts/fa-solid-900.ttf") format("truetype");
+  }
+  
+  .fa,
+  .fas {
+    font-family: 'Font Awesome 5 Pro';
+    font-weight: 900;
+  }
+
 .fa {
     display: inline-block;
     font-family: 'FontAwesome';

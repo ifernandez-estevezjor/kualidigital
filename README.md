@@ -416,3 +416,22 @@
 # Modificaciones Test/Producción 12/02/2024
 * General
     - Se agregó el botón flotante de WhatsApp.
+
+# Modificaciones Test/Producción 22/02/2024
+* General
+    - Modificación en el texto del botón de WhatsApp.
+    - Compresión del tamaño para los PDFs en algunas secciones.
+
+* Planes
+    - Se agregó un ícono open para el acordeon de la sección "¿Cómo lo hacemos?".
+
+* Cobertura
+    - Quitar enlace de los títulos en los Estados.
+    - El video del container "Queremos..." se abre en la misma página como pop-up.
+
+* Empresarial
+    - Se quitaron los enlaces de la sección Segmentos.
+
+# Modificaciones Test/Producción 28/02/2024
+* General
+    - Modificación de las URL agregando el archivo .htaccess

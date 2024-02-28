@@ -3493,7 +3493,7 @@ h6 {
 
 .progress-wrap::after {
     position: absolute;
-    content: '\f176';
+    content: '\f062';
     font-family: "Font Awesome 5 Pro";
     text-align: center;
     line-height: 40px;
