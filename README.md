@@ -435,3 +435,7 @@
 # Modificaciones Test/Producción 28/02/2024
 * General
     - Modificación de las URL agregando el archivo .htaccess
+
+# Modificaciones Test/Producción 19/03/2024
+* Contactanos
+    - Se agregó la dirección Providencia y una imagen para cubrir el espacio blanco que se mostraba.
